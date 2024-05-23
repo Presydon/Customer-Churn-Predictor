@@ -1,0 +1,8 @@
+pandas 
+matplotlib 
+seaborn 
+scikit-learn
+xgboost
+imblearn 
+flask 
+flask-bootstrap 
